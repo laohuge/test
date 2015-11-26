@@ -1,9 +1,8 @@
 package test
 
-import "fmt"
+import ("fmt")
 
-func Ceshi()
-{
+func Ceshi() {
 	fmt.Println("testcesdf")	
 }
 
